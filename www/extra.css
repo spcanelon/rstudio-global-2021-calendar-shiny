@@ -27,3 +27,8 @@
   position: static;
   margin: auto;
 }
+
+/* style links */
+a{text-decoration: underline;}
+a:hover{text-decoration:none;}
+.btn,.btn-success a{text-decoration: none; !important}
